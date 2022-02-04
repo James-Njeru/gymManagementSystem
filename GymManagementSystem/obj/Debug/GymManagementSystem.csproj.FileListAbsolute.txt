@@ -1,0 +1,13 @@
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Gym.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Login.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Member.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Payment.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Trainer.resources
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+c:\users\jimmy\documents\visual studio 2012\Projects\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
